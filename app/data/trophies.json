@@ -1,7 +1,14 @@
 {
   "game": "Grand Theft Auto VI",
   "platform": "PlayStation 5",
-  "list": "The official 55 trophies as shown on PlayStation Network, taken 18 November 2026 from Exophase and cross-checked with PSNProfiles and TrueAchievements. Rockstar has not published an official list of its own.",
+  "listNote": "The official 55-trophy list as PlayStation publishes it, frozen 18 November 2026 from Exophase and cross-checked against PSNProfiles: 1 platinum, 2 gold, 6 silver, 46 bronze, 28 of them hidden until earned. Names, descriptions and grades are the official ones; every guide below is written for this page in its own words, and each one names the source its facts come from.",
+  "grades": { "platinum": 1, "gold": 2, "silver": 6, "bronze": 46 },
+  "sources": [
+    { "name": "Official trophy list on Exophase", "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/" },
+    { "name": "PSNProfiles trophy list", "url": "https://psnprofiles.com/trophies/43531-grand-theft-auto-vi" },
+    { "name": "PowerPyx GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/" },
+    { "name": "Planet GTA 6 trophy list", "url": "https://www.planetgta6.com/en/gta-6-trophies/" }
+  ],
   "trophies": [
     {
       "id": 1,
@@ -10,10 +17,9 @@
       "grade": "platinum",
       "hidden": false,
       "kind": "platinum",
-      "missable": false,
       "stage": 3,
-      "guide": "Earn the other 54 trophies and this one unlocks on its own. Work the roadmap in order: story first, then the 100% checklist, then cleanup.",
-      "source": "Official list"
+      "guide": "The platinum lands the moment the other 54 are yours — there is nothing extra to do for it. Work the roadmap's three stages in order and this one pops with the last trophy you earn.",
+      "source": "Official list (Exophase / PSNProfiles)"
     },
     {
       "id": 2,
@@ -22,10 +28,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic story trophy: finish the opening mission, Gone Fishing, in Chapter 1. It cannot be missed.",
-      "source": "Official list · PowerPyx"
+      "guide": "A story trophy, earned automatically: play through Gone Fishing, the mission that opens the game, and it unlocks as the mission ends. Nothing here can be missed.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 3,
@@ -34,10 +39,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish Chapter 1. Before you do, meditate at Jason's house — that first meditation is the game's only missable moment. Keep a manual save at the start of every chapter, because there is no mission replay.",
-      "source": "Official list · PowerPyx"
+      "guide": "A story trophy: finish Chapter 1 and it unlocks. Before you wrap the chapter up, meditate at Jason's house — that first meditation spot is the one thing in the whole set that can pass you by for good.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 4,
@@ -46,9 +50,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish Chapter 2.",
+      "guide": "A story trophy: finish Chapter 2 and it unlocks. Keep a manual save at the start of each chapter — there is no mission replay, so a save is your only way back.",
       "source": "Official list"
     },
     {
@@ -58,9 +61,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish Chapter 3.",
+      "guide": "A story trophy: finish Chapter 3. Nothing to prepare; just play the chapter through.",
       "source": "Official list"
     },
     {
@@ -70,9 +72,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish Chapter 4.",
+      "guide": "A story trophy: finish Chapter 4. You are most of the way through the story by now — the final mission follows.",
       "source": "Official list"
     },
     {
@@ -82,10 +83,9 @@
       "grade": "gold",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the final mission. Make a manual save before it — there is no mission replay and no New Game Plus.",
-      "source": "Official list · PowerPyx"
+      "guide": "A story trophy, and a gold one: finish the final mission. Save by hand before you start it — there is no mission replay and no New Game Plus, so this is your last easy chance to tidy anything up.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 8,
@@ -94,9 +94,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the mission Breakfast Run.",
+      "guide": "A story trophy: finish the mission Breakfast Run. It unlocks as the mission ends.",
       "source": "Official list"
     },
     {
@@ -106,9 +105,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the mission The Cartel Heist.",
+      "guide": "A story trophy: finish the mission The Cartel Heist.",
       "source": "Official list"
     },
     {
@@ -118,9 +116,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the mission Child's Play.",
+      "guide": "A story trophy: finish the mission Child's Play.",
       "source": "Official list"
     },
     {
@@ -130,9 +127,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the mission Headliners.",
+      "guide": "A story trophy: finish the mission Headliners.",
       "source": "Official list"
     },
     {
@@ -142,9 +138,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the mission VCIA Takedown.",
+      "guide": "A story trophy: finish the mission VCIA Takedown.",
       "source": "Official list"
     },
     {
@@ -154,9 +149,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the mission Operation Savage Glory.",
+      "guide": "A story trophy: finish the mission Operation Savage Glory.",
       "source": "Official list"
     },
     {
@@ -166,10 +160,9 @@
       "grade": "gold",
       "hidden": false,
       "kind": "completion",
-      "missable": false,
       "stage": 2,
-      "guide": "Attain 100% Completion. The checklist (Progress, then Stats, then 100% Completion) appears after the story, but progress made earlier counts and nothing on it is missable. PowerPyx puts it at roughly 60% of true completion — most of it comes from the other trophies — and ranks it the hardest trophy in the set. Work it after the story, in Stage 2 of the roadmap.",
-      "source": "Official list · PowerPyx"
+      "guide": "Reach 100% Completion — the gold that takes the longest. The checklist itself (Progress, then Stats, then 100% Completion) only appears once the story is done, but everything you did earlier already counts and nothing on it is missable. PowerPyx calls it the hardest trophy in the set and puts it at about 60% of true completion; most of it falls out of the other trophies, so chase it in Stage 2 after the story.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 15,
@@ -178,11 +171,10 @@
       "grade": "silver",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 250,
-      "guide": "Complete 250 stunts. PowerPyx counts 397 stunts in total: 130 Stunt Jumps, 202 Under the Bridges, 40 Knife Flights and 25 Base Jumps. Any 250 count; the 100% checklist wants 300. Mix ramp jumps in the city with bridge fly-unders while travelling.",
-      "source": "Official list · PowerPyx"
+      "guide": "Pull off 250 stunts of any kind. Leonida holds 397 in total — 130 Stunt Jumps, 202 Under the Bridges, 40 Knife Flights and 25 Base Jumps — so any 250 will do, though the 100% checklist asks for 300. Fold stunt jumps into city driving and bridge fly-unders into flights between jobs.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 16,
@@ -191,10 +183,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 1,
-      "guide": "Try each type of activity once. The trophy tracker counts 9 activity types — dip into each one as you meet it during the story: races, fishing, arcade games, bowling, the shooting range, drone races, meditation, hunting and challenges.",
-      "source": "Official list · PowerPyx"
+      "guide": "Try every activity type once — nine in total. Sample each one as the story introduces it: races, fishing, arcade games, bowling, the shooting range, drone races, meditation, hunting and challenges.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 17,
@@ -203,11 +194,10 @@
       "grade": "silver",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 42,
-      "guide": "Earn a gold medal in all 42 Shooting Range challenges. Visit the Shooting Range and gold every challenge; PowerPyx notes the golds are not too difficult, and they count toward the 70-of-80 challenges needed for 100% Completion.",
-      "source": "Official list · PowerPyx"
+      "guide": "Gold every one of the 42 Shooting Range challenges. The golds are not punishing, per PowerPyx, and each one also counts toward the 70-of-80 challenges the 100% checklist wants.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 18,
@@ -216,11 +206,10 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 14,
-      "guide": "Win a Top Fun Drone Race at every one of the 14 locations. Learn each course, then win it — races are repeatable, so retry a location until you win it.",
-      "source": "Official list · PowerPyx"
+      "guide": "Win a Top Fun Drone Race at all 14 locations. Every race can be retried, so learn a course, then win it, one location at a time.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 19,
@@ -229,13 +218,11 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 20,
-      "guide": "Win 20 different races. Enter the race types as you find them across Leonida — street, off-road, boat and air races all count as different races.",
+      "guide": "Win 20 different races. Street, off-road, boat and air races each count as different races, so enter whatever you come across around Leonida.",
       "source": "Official list"
-    }
-,
+    },
     {
       "id": 20,
       "name": "Baited My Tackle",
@@ -243,9 +230,8 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 1,
-      "guide": "Beat Cal in a fishing challenge. Find Cal and take him on at fishing — you can retry the challenge.",
+      "guide": "Beat Cal in a fishing challenge. Track Cal down, take the challenge, and retry it until you win — fishing challenges can be repeated.",
       "source": "Official list"
     },
     {
@@ -255,9 +241,8 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Complete an arcade game. Play any arcade game through to its end.",
+      "guide": "Play any arcade game through to the end. Pick the shortest one you can find and finish it.",
       "source": "Official list"
     },
     {
@@ -267,9 +252,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the final mission for Andy. Do Andy's strand when it appears; stranger strands are best done during the story.",
+      "guide": "Finish Andy's mission strand — the trophy pops when his final mission is done. Pick stranger strands up as they appear during the story rather than leaving them all for later.",
       "source": "Official list"
     },
     {
@@ -279,9 +263,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the final mission for Kenton.",
+      "guide": "Finish Kenton's mission strand; the trophy unlocks with his final mission.",
       "source": "Official list"
     },
     {
@@ -291,9 +274,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the final mission for Billy.",
+      "guide": "Finish Billy's mission strand; the trophy unlocks with his final mission.",
       "source": "Official list"
     },
     {
@@ -303,10 +285,9 @@
       "grade": "silver",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 1,
       "count": 8,
-      "guide": "Complete 8 mission strands for strangers across Leonida. Pick up stranger missions as you explore and see each strand through to its end — eight completed strands unlock it.",
+      "guide": "Finish 8 stranger mission strands anywhere in Leonida. Take stranger missions as you find them while exploring and see each strand through to its last mission.",
       "source": "Official list"
     },
     {
@@ -316,9 +297,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the final mission for Randy.",
+      "guide": "Finish Randy's mission strand; the trophy unlocks with his final mission.",
       "source": "Official list"
     },
     {
@@ -328,9 +308,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "story",
-      "missable": false,
       "stage": 1,
-      "guide": "Automatic: finish the final mission for Tyrone.",
+      "guide": "Finish Tyrone's mission strand; the trophy unlocks with his final mission.",
       "source": "Official list"
     },
     {
@@ -340,11 +319,11 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": true,
       "stage": 1,
       "count": 18,
-      "guide": "Meditate at every spot across Leonida — 18 spots in 10 locations, as Jason and Lucia. This is the only potentially missable trophy: PowerPyx and GTABase both flag it. The first meditation is offered at Jason's house in Chapter 1 and becomes permanently unavailable after that chapter, so meditate there before finishing Chapter 1, then visit every other spot as you find it.",
-      "source": "Official list · PowerPyx · GTABase"
+      "missable": true,
+      "guide": "Meditate at all 18 spots, spread over 10 locations, as both Jason and Lucia. This is the set's only trophy that can be missed for good: the first meditation is offered at Jason's house in Chapter 1 and is gone once that chapter ends, so meditate there before you finish Chapter 1, then sweep the remaining spots as you travel.",
+      "source": "Official list · PowerPyx roadmap · GTABase"
     },
     {
       "id": 29,
@@ -353,10 +332,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Hunt a unique animal for Bret. Take Bret's hunt and track the unique animal he names — use binoculars to study animals, since the 100% checklist also wants 100 of 255 animals studied.",
-      "source": "Official list · PowerPyx"
+      "guide": "Hunt the unique animal Bret asks for. Take Bret's hunt, track the animal he names, and study wildlife with binoculars along the way — the 100% checklist also wants 100 of 255 animals studied.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 30,
@@ -365,10 +343,9 @@
       "grade": "silver",
       "hidden": false,
       "kind": "collectibles",
-      "missable": false,
       "stage": 2,
       "count": 3,
-      "guide": "Complete 3 Collectible Card sets. Find cards across Leonida and finish any three sets — card spots are marked as you explore, and community maps are filling in during launch week.",
+      "guide": "Finish any 3 Collectible Card sets. Cards turn up all over Leonida; finish three sets and the silver is yours. Community maps are still being filled in during launch week, so check the source links for the latest.",
       "source": "Official list"
     },
     {
@@ -378,10 +355,9 @@
       "grade": "silver",
       "hidden": false,
       "kind": "collectibles",
-      "missable": false,
       "stage": 2,
       "count": 100,
-      "guide": "WAiNK It at 100 locations. Use the WAiNK feature at 100 different spots around the map — it counts distinct locations, so keep moving.",
+      "guide": "WAiNK It at 100 different locations. Each spot counts once, so keep moving around the map instead of repeating the same place.",
       "source": "Official list"
     },
     {
@@ -391,11 +367,10 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 50,
-      "guide": "Complete 50 Challenges. Challenges stack up from races, stunts, shooting and more; the 100% checklist needs 70 of 80, so keep going past 50.",
-      "source": "Official list · PowerPyx"
+      "guide": "Finish 50 Challenges. Challenges pile up from races, stunts, shooting and more; keep going past 50, because the 100% checklist wants 70 of 80.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 33,
@@ -404,9 +379,8 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 3,
-      "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Build a 4-star wanted level while your partner is with you, then break line of sight and stay hidden until it clears.",
+      "guide": "With your partner beside you, build a 4-star wanted level, then lose it and get away. Break line of sight, stay out of view, and wait for the heat to die down.",
       "source": "Official list"
     },
     {
@@ -416,9 +390,8 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 3,
-      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Rob three shops in a row with your partner beside you and keep the wanted level the whole way — plan a route of nearby shops and a fast getaway car.",
+      "guide": "With your partner, rob three shops one after another without ever losing your wanted level. Plan a route of shops close together and keep a fast car ready for the getaway.",
       "source": "Official list"
     },
     {
@@ -428,11 +401,10 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "collectibles",
-      "missable": false,
       "stage": 2,
       "count": 100,
-      "guide": "Discover 100 vehicles. Drive and encounter new vehicles — each new model you find counts. The 100% checklist wants 200 of 277 base models scanned, so keep discovering.",
-      "source": "Official list · PowerPyx"
+      "guide": "Discover 100 vehicles — every new model you drive or come across counts. Keep discovering past 100: the 100% checklist wants 200 of 277 base models scanned.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 36,
@@ -441,9 +413,8 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Take down 5 enemies in a single use of Combat Focus. Trigger Combat Focus in a firefight with a group of enemies and down five before it ends — pick a busy shootout.",
+      "guide": "Down 5 enemies inside a single Combat Focus. Start it in a busy firefight with a group in front of you and drop five before it runs out.",
       "source": "Official list"
     },
     {
@@ -453,9 +424,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "activities",
-      "missable": false,
       "stage": 3,
-      "guide": "Make an unscheduled departure at VCIA. Leave the airport in a way the schedule did not plan — take a plane out yourself.",
+      "guide": "Leave VCIA on your own schedule — take a plane out of the airport yourself instead of flying as a passenger.",
       "source": "Official list"
     },
     {
@@ -465,10 +435,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Steal a military tank (a Rhino) and drive off with it. Tanks sit out in the open at military spots — take one and drive away, and expect a 3-star wanted level.",
-      "source": "Official list · PowerPyx"
+      "guide": "Steal a Rhino tank and drive away with it. Tanks sit in the open at military spots; grab one and go, and expect a 3-star wanted level on your tail.",
+      "source": "Official list · PowerPyx roadmap"
     },
     {
       "id": 39,
@@ -477,12 +446,10 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Rob a jewelry store without being detected. Go in quiet — no alarms, no witnesses spotting you — and get out clean.",
+      "guide": "Rob a jewelry store without being spotted. Go in quiet, keep the alarms silent, leave no witnesses, and get out clean.",
       "source": "Official list"
-    }
-,
+    },
     {
       "id": 40,
       "name": "Maximum Withdrawal",
@@ -490,10 +457,9 @@
       "grade": "silver",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 5,
-      "guide": "Rob 5 Bank Vaults and escape. Hit five bank vaults and get away after each one — plan your escape before you go in.",
+      "guide": "Rob 5 bank vaults and escape after each one. Sort your escape route before you go in — the getaway matters as much as the robbery.",
       "source": "Official list"
     },
     {
@@ -503,9 +469,8 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Rob an Armored Truck and escape. Ambush an armored truck, take its cash and lose the wanted level.",
+      "guide": "Rob an armored truck and escape. Ambush the truck, take the cash, then shake the wanted level.",
       "source": "Official list"
     },
     {
@@ -515,10 +480,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "collectibles",
-      "missable": false,
       "stage": 2,
       "count": 52,
-      "guide": "Explore all of Leonida — all 52 areas. Travel the whole map; areas count as you visit them.",
+      "guide": "Visit all 52 areas of Leonida. Areas tick off as you travel through them, so a full sweep of the map does it.",
       "source": "Official list"
     },
     {
@@ -528,10 +492,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 9,
-      "guide": "Rob an Illegal Operation belonging to each of the 9 gangs. Find and rob one illegal operation per gang — nine gangs, nine robberies.",
+      "guide": "Rob one illegal operation for each of the 9 gangs. Nine gangs, nine robberies — find an operation belonging to each and hit it.",
       "source": "Official list"
     },
     {
@@ -541,10 +504,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "Enjoy a cocktail with a view on Ocean Beach. PowerPyx lists this one's unlock method as not yet known at launch — the description points to a cocktail with an ocean view on Ocean Beach, so visit the beach bars there and check the guide link for updates as players pin it down.",
-      "source": "Official list · PowerPyx (method not yet known)"
+      "guide": "The description points to a cocktail with a view on Ocean Beach — try the beach bars there. Honest note: at launch, PowerPyx had not yet pinned down the exact trigger for this one, so check the roadmap link for updates as players work it out.",
+      "source": "Official list · PowerPyx roadmap (method not yet known at launch)"
     },
     {
       "id": 45,
@@ -553,10 +515,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "Smash your way out of a vehicle showroom in classic style. PowerPyx lists this one's unlock method as not yet known at launch — the description suggests a showroom smash-up, so check the guide link for updates as players pin it down.",
-      "source": "Official list · PowerPyx (method not yet known)"
+      "guide": "The description suggests smashing your way out of a vehicle showroom. Honest note: at launch, PowerPyx had not yet pinned down the exact trigger, so check the roadmap link for updates as players work it out.",
+      "source": "Official list · PowerPyx roadmap (method not yet known at launch)"
     },
     {
       "id": 46,
@@ -565,9 +526,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
-      "guide": "Follow-through at the Kolt & Associates' bowling alley. Play a game at the Kolt & Associates bowling alley and follow through on your shots.",
+      "guide": "Play at the Kolt & Associates bowling alley and follow through on your shots. A full game there should do it.",
       "source": "Official list"
     },
     {
@@ -577,9 +537,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "A partnership with mass appeal. A partner moment — play through the story with your partner and this pops at the right beat; the exact trigger is not published, so keep playing.",
+      "guide": "A partner moment — the description hints at a partnership with mass appeal. No published source names the exact trigger yet; play the story with your partner and it should pop at the right beat.",
       "source": "Official list"
     },
     {
@@ -589,9 +548,8 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "Choices made, for better or worse. Make choices across the game — the trophy tracks the choices you make; the exact count PlayStation tracks is not published, so keep choosing and it will come.",
+      "guide": "Make choices across the game, for better or worse. The trophy tracks the choices you make; no published count exists yet, so keep choosing as you play.",
       "source": "Official list"
     },
     {
@@ -601,10 +559,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "Second time's the charm. PowerPyx lists this one's unlock method as not yet known at launch — the name suggests succeeding on a second attempt at something; check the guide link for updates.",
-      "source": "Official list · PowerPyx (method not yet known)"
+      "guide": "The name hints at succeeding on a second try. Honest note: at launch, PowerPyx had not yet pinned down the exact trigger, so check the roadmap link for updates as players work it out.",
+      "source": "Official list · PowerPyx roadmap (method not yet known at launch)"
     },
     {
       "id": 50,
@@ -613,10 +570,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "What the hell just happened? PowerPyx lists this one's unlock method as not yet known at launch — the name points to a strange encounter somewhere in Leonida; check the guide link for updates.",
-      "source": "Official list · PowerPyx (method not yet known)"
+      "guide": "The name points to a strange encounter somewhere in Leonida. Honest note: at launch, PowerPyx had not yet pinned down the exact trigger, so check the roadmap link for updates as players work it out.",
+      "source": "Official list · PowerPyx roadmap (method not yet known at launch)"
     },
     {
       "id": 51,
@@ -625,10 +581,9 @@
       "grade": "bronze",
       "hidden": true,
       "kind": "moments",
-      "missable": false,
       "stage": 3,
-      "guide": "Bowl 'em over with a melee drive-by. PowerPyx lists this one's unlock method as not yet known at launch — the name suggests knocking someone down with a melee attack from a moving vehicle; check the guide link for updates.",
-      "source": "Official list · PowerPyx (method not yet known)"
+      "guide": "The name suggests knocking someone down with a melee attack from a moving vehicle. Honest note: at launch, PowerPyx had not yet pinned down the exact trigger, so check the roadmap link for updates as players work it out.",
+      "source": "Official list · PowerPyx roadmap (method not yet known at launch)"
     },
     {
       "id": 52,
@@ -637,10 +592,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 250000,
-      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Bring marked bills to your contacts and launder $250,000 in total — it accumulates across the game.",
+      "guide": "Launder $250,000 of Marked Bills through your contacts. It adds up across the whole game, so hand bills over whenever you have them.",
       "source": "Official list"
     },
     {
@@ -650,10 +604,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "activities",
-      "missable": false,
       "stage": 2,
       "count": 100000,
-      "guide": "Spend $100,000 across all shops. Spend $100,000 in total at shops — it accumulates, so just keep shopping as you play.",
+      "guide": "Spend $100,000 across all shops. The total accumulates, so normal shopping across the game gets you there.",
       "source": "Official list"
     },
     {
@@ -663,10 +616,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "collectibles",
-      "missable": false,
       "stage": 2,
       "count": 8,
-      "guide": "Purchase all garage properties — 8 in total. Buy every garage property on the map.",
+      "guide": "Buy all 8 garage properties on the map.",
       "source": "Official list"
     },
     {
@@ -676,10 +628,9 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "collectibles",
-      "missable": false,
       "stage": 2,
       "count": 10,
-      "guide": "Register 10 vehicles to the Scooter Bros app. Register ten vehicles you own or find through the Scooter Bros app.",
+      "guide": "Register 10 vehicles through the Scooter Bros app — vehicles you own or find.",
       "source": "Official list"
     }
   ]
